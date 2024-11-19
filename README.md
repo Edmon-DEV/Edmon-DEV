@@ -14,7 +14,7 @@
 ## Who am I?
 <h2>
 <p>
-    👨🏻‍💻 I am a JR consultant for workforce software and SAP.
+    👨🏻‍💻 I am consultant for workforce software and SAP.
     💻 I am a technologist in information systems development.
     👾 I am currently studying video game development.
     🦏 I am currently working in SAP consulting.
@@ -26,7 +26,7 @@
   ## 🤝😎 Connect with me
 <p class="flex-divs">
   <a href="edmon062@outlook.com"><img img src="https://img.shields.io/badge/Email-%23FA2100?style=plastic&logo=Gmail&logoColor=%23FA2100&labelColor=white&color=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/nfandino12345/" target="_blank">
+	<a href="https://www.linkedin.com/in/edmon-dev/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
